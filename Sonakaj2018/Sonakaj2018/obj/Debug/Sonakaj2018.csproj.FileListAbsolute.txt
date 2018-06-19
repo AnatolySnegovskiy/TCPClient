@@ -1,0 +1,7 @@
+c:\users\carri\source\repos\Sonakaj2018\Sonakaj2018\bin\Debug\Sonakaj2018.exe.config
+c:\users\carri\source\repos\Sonakaj2018\Sonakaj2018\bin\Debug\Sonakaj2018.exe
+c:\users\carri\source\repos\Sonakaj2018\Sonakaj2018\bin\Debug\Sonakaj2018.pdb
+c:\users\carri\source\repos\Sonakaj2018\Sonakaj2018\obj\Debug\Sonakaj2018.csprojResolveAssemblyReference.cache
+c:\users\carri\source\repos\Sonakaj2018\Sonakaj2018\obj\Debug\Sonakaj2018.csproj.CoreCompileInputs.cache
+c:\users\carri\source\repos\Sonakaj2018\Sonakaj2018\obj\Debug\Sonakaj2018.exe
+c:\users\carri\source\repos\Sonakaj2018\Sonakaj2018\obj\Debug\Sonakaj2018.pdb
